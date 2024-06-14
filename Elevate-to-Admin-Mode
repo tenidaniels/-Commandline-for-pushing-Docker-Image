@@ -1,0 +1,3 @@
+#!/bin/bash
+# This step will run all subsequent commands with sudo
+echo "Commands will run with sudo"
